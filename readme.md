@@ -4,12 +4,17 @@
 
 * [Internationalisierung](https://de.wikipedia.org/wiki/Internationalisierung_(Softwareentwicklung))
 
+* [Lokalisierung](https://de.wikipedia.org/wiki/Lokalisierung_(Softwareentwicklung))
+
 ## Was gibt es schon?
+
+### debian
 
 	apt-cache search German|less
 
 	sudo apt-get install debian-faq-de
 	cd /usr/share/doc/debian/FAQ
+
 
 * []()
 
@@ -21,6 +26,7 @@
 
 * [po-debconf](https://www.debian.org/international/l10n/po-debconf/de)
 
+* [debian-edu-doc](http://maintainer.skolelinux.org/debian-edu-doc/de/debian-edu-jessie-manual.html#Translations--HowTo_translate_this_document)
 
 ### man
 
@@ -39,6 +45,8 @@ Martin Schulze, 7. Februar 2008
 
 ### [LDP](http://www.tldp.org/links/nenglish.html#german)
 
+* [DE-Autor-HOWTO](http://www.linuxhaven.de/dlhp/HOWTO/DE-Autor-HOWTO.html)
+
 ## Werkzeuge
 
 * [po4a](http://po4a.alioth.debian.org/)
@@ -53,4 +61,13 @@ Martin Schulze, 7. Februar 2008
 * emacs
 * ...
 
+### SCM
 
+* git
+* svn
+* Mercurial
+* fossil
+
+### test
+
+[test](test.md)
