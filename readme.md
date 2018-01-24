@@ -6,6 +6,11 @@
 
 * [Lokalisierung](https://de.wikipedia.org/wiki/Lokalisierung_(Softwareentwicklung))
 
+### Wörterbücher
+
+* [dict.cc](https://dict.cc)
+* [debian Wortliste](https://wiki.debian.org/Wortliste)
+
 ## Was gibt es schon?
 
 ### debian
@@ -15,12 +20,13 @@
 	sudo apt-get install debian-faq-de
 	cd /usr/share/doc/debian/FAQ
 
-
-* []()
-
 ## Ziele
 
 ### debian
+
+* [po4a:](https://www.debian.org/international/l10n/po4a/de)
+
+* [po:](https://www.debian.org/international/l10n/po/de#i18n)
 
 * [debian-installer](https://hosted.weblate.org/projects/debian-installer/)
 
@@ -28,9 +34,30 @@
 
 * [debian-edu-doc](http://maintainer.skolelinux.org/debian-edu-doc/de/debian-edu-jessie-manual.html#Translations--HowTo_translate_this_document)
 
-### man
-
 * [Mailliste](https://lists.debian.org/debian-l10n-german/)
+
+  * Betreff
+
+  [RFR] Request for review
+  [LCFC] Last chance for comments
+  [BTS#<Nummer>] Als Bugreport Nummer eingereicht (fertig)
+  [ITT] Intent to translat
+  [TAF] Kann wer anders machen
+  [DONE] Ist fertig, aber ohne Fehlerbericht (bzw. Ablauf abgebrochen)
+
+  z. B.: [RFR] po-debconf://diaspora/po/de.po
+
+  * Ablauf
+
+  Übersetzen -> Korrekturlesen lassen -> als Bugreport einreichen
+   
+    * Bugreport
+
+  Priorität »wishlist« 
+  mit »l10n«-Markierung und einem 
+  Betreff, der mit [INTL:de] beginnt
+
+### man
 
 * [SCM](https://alioth.debian.org/scm/?group_id=100531)
 
@@ -51,12 +78,17 @@ Martin Schulze, 7. Februar 2008
 
 * [po4a](http://po4a.alioth.debian.org/)
 
+* virtaal
 * lokalize 
 
 * gettext
 
 ### Editor
 
+* Kate
+* Gedit
+* Geany
+* Notepad++
 * vim
 * emacs
 * ...
