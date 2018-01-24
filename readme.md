@@ -101,6 +101,3 @@ Martin Schulze, 7. Februar 2008
 * Mercurial
 * fossil
 
-### test
-
-[test](test.md)
