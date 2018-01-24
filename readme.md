@@ -38,6 +38,7 @@
 
   * Betreff
 
+
 	  [RFR] Request for review
 	  [LCFC] Last chance for comments
 	  [BTS#<Nummer>] Als Bugreport Nummer eingereicht (fertig)
@@ -47,15 +48,20 @@
 
 	  z. B.: [RFR] po-debconf://diaspora/po/de.po
 
+
   * Ablauf
 
+
 	  Übersetzen -> Korrekturlesen lassen -> als Bugreport einreichen
-   
+  
+
     * Bugreport
+
 
 	  Priorität »wishlist« 
 	  mit »l10n«-Markierung und einem 
 	  Betreff, der mit [INTL:de] beginnt
+
 
 ### man
 
