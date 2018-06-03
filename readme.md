@@ -60,12 +60,12 @@
 
 ### man
 
-* [SCM](https://alioth.debian.org/scm/?group_id=100531)
+* [SCM](https://salsa.debian.org/debian/manpages-de.git)
 
 * [Richtlinien zur Erstellung deutscher Handbuchseiten ](http://www.infodrom.org/projects/manpages-de/richtlinien.pdf)
 Martin Schulze, 7. Februar 2008
 
-* [Status](http://manpages-de.alioth.debian.org/)
+* [Status](https://manpages-de-team.pages.debian.net/manpages-de/)
 
 ### Programme
 
